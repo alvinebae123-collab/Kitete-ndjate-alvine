@@ -1,4 +1,4 @@
-CV Flutter — KITETE NDJATE CHRISTIAN
+CV Flutter — KITETE NDJATE CHRISTIAN.
 
 Application mobile réalisée avec Flutter et Dart dans le cadre d’un TP universitaire à l’ISIG Goma.
 
